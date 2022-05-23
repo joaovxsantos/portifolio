@@ -54,6 +54,26 @@ p{
     
 }
 
+@media screen and (max-width:800px){
+    .content img{
+        width: 200px;
+    } 
+
+    .content2 img{
+        width: 180px;
+        height: 400px;
+    }
+
+    .content p {
+        font-size: 10px;
+        
+    }
+
+    .content2 p{
+        margin-left: 15px;
+    }
+}
+
 
 
 
