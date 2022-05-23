@@ -1,0 +1,51 @@
+*{
+    font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(to right, rgb(129, 248, 129), rgb(199, 196, 196) );
+}
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
+p{
+    
+    padding: 1rem;
+    
+    
+}
+
+.container h1{
+    margin-right: 10px;
+}
+
+
+
+
+
+.container2{
+    
+    text-align: center;
+}
+
+.container2 img{
+    border-radius: 100px;
+}
+
+
+
+
+
